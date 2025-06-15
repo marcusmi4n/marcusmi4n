@@ -53,6 +53,6 @@ Git & GitHub, Docker, VS Code, Supabase, Firebase, Postman, Ubuntu/Linux
 ---
 
 ### 📫 Contact
-📧 **marcuslutas@gmail.com*  
+📧 **marcuslutas@gmail.com**      
 🌐 [Portfolio (Coming Soon)](https://github.com/marcusmi4n)  
 🔗 [LinkedIn](https://linkedin.com/in/mukwayamark)  
