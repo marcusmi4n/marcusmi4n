@@ -66,13 +66,14 @@
 ### 📌 Highlight Projects
 | Project | Stack | Summary |
 |--------|-------|---------|
-| **CampusBite** 🍔 | Flutter + Firebase + AI | University-based food delivery app with chatbot, geofencing, and mobile money |
-| **NeoVote** 🗳️ | Rust + Web + Blockchain | Secure voting dApp prototype with voter authentication |
-| **AI Chatbot System** 🤖 | FastAPI + Supabase + OpenRouter | Custom GPT-style chatbot deployed via API |
-| **LMS Globalizer** 🌐 | Ruby + Vue + PostgreSQL + AWS | LMS localization engine with CI/CD |
-| **SIEM Lab** 🔐 | Linux + Bash + Open-source SIEM | Security toolkit for threat visibility & training |
-
----
+| [**CampusBite** 🍔](https://campusbite.flutterflow.app) | Flutterflow + Supabase + AI | University-based food delivery app with chatbot, geofencing, and mobile money |
+|  [**NeoVote** 🗳️](https://github.com/marcusmi4n/NeoVote-Secure-Voting-Prototype.git) | Rust + Web + Blockchain | Secure voting dApp prototype with voter authentication |
+| [**SIEM Lab** 🔐](https://github.com/marcusmi4n/SIEM-Lab-Mini-Security-Incident-and-Event-Monitoring-System.git) | Linux + Bash + Open-source SIEM | Security toolkit for threat visibility & training |
+| [**Zeyquorra Career Advisor**](https://github.com/marcusmi4n/Zeyquorra-AI-Powered-Career-Advisor-App.git) | Flutter, Supabase, OpenRouter API, Dart, HTTP | AI-powered app for career guidance based on Uganda’s secondary curriculum. Handles chat, mood-based prompts, and stores responses. |
+| [**CampusChatAI**](https://github.com/marcusmi4n/CampusChatAI.git) | FastAPI, Python, Supabase, OpenRouter | API backend for a student chatbot. Handles chat requests, stores messages in Supabase, built with FastAPI + OpenRouter. |
+| [**LMS Globalizer** 🌐](https://github.com/marcusmi4n/LMS-Globalizer-Multilingual-Learning-System-with-CI-CD.git) | Flutter, Dart, Google Translate API | A multilingual learning platform that supports localized content for diverse learners. |
+| [**Zeyquorra Admin Dashboard**](https://github.com/marcusmi4n/Zeyquorra-AI-Powered-Career-Advisor-App.git) | React / Flutter Web, Supabase | A dashboard to track usage, user questions, and career trends from the Zeyquorra platform. *(Coming Soon)* |
+| [**MianLang Playground**](https://github.com/marcusmi4n/MianLang-Playground.git) | Flutter Web / Dart / Compiler Theory | Interactive playground for experimenting with MianLang — a custom programming language. *(Coming Soon)* |
 
 ### 📈 GitHub Stats
 
